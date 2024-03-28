@@ -25,6 +25,7 @@ nav ul {
   list-style: none;
 }
 nav ul li a {
+  color: #fff;
   font-weight: normal;
   font-size: 14px;
   line-height: 28px;
