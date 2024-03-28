@@ -6,6 +6,7 @@
 
 body {
   background: #2c2b3d;
+  color: #fff;
   font-family: "JetBrains Mono", monospace;
 }
 .page {
@@ -24,7 +25,6 @@ nav ul {
   list-style: none;
 }
 nav ul li a {
-  color: #fff;
   font-weight: normal;
   font-size: 14px;
   line-height: 28px;
@@ -65,7 +65,7 @@ section p span {
 
 footer {
   text-align: center;
-  color: #fff;
+
   font-size: 14px;
   line-height: 28px;
 }
